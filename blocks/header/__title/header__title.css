@@ -4,6 +4,6 @@
     font-weight: 600;
     display: flex;
     width: 730px;
-    margin-left: 64px;
+    margin: 0 0 0 64px;
     z-index: 5;
 }
